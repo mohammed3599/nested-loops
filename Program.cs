@@ -4,6 +4,17 @@
     {
         static void Main(string[] args)
         {
+            //for(int i=0; i<5; i++)
+            //{
+            //    Console.WriteLine("i body");
+            //    Console.WriteLine("i = " + i);
+            //    for(int j=0; j<5; j++)
+            //    {
+            //        Console.WriteLine("j = " + j);
+            //    }
+            //}
+
+            
             Console.WriteLine("**********");
             /*Print the following pattern
              
