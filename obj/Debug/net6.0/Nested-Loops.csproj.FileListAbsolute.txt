@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\bin\Debug\net6.0\Nested-Loops.exe
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\bin\Debug\net6.0\Nested-Loops.deps.json
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\bin\Debug\net6.0\Nested-Loops.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\bin\Debug\net6.0\Nested-Loops.dll
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\bin\Debug\net6.0\Nested-Loops.pdb
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\obj\Debug\net6.0\Nested-Loops.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\obj\Debug\net6.0\Nested-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\obj\Debug\net6.0\Nested-Loops.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\obj\Debug\net6.0\Nested-Loops.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\obj\Debug\net6.0\Nested-Loops.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\obj\Debug\net6.0\Nested-Loops.dll
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\obj\Debug\net6.0\refint\Nested-Loops.dll
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\obj\Debug\net6.0\Nested-Loops.pdb
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\obj\Debug\net6.0\Nested-Loops.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\Nested-Loops\Nested-Loops\obj\Debug\net6.0\ref\Nested-Loops.dll
